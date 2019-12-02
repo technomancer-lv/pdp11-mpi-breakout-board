@@ -1,0 +1,11 @@
+Board based on MT controller unfinished board
+40pin male boxed connectors so PATA cables can be used for extension
+Signal markings
+IAK and DMG jumpers
+Power supply LEDs
+
+ENIG coating!
+
+Make documentation
+
+Order 10pcs, leave 4pcs and sell others
