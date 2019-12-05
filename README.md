@@ -7,4 +7,4 @@ This is very simple and small board that connects into PDP-11 compatible soviet 
 Board can (and most likely will) be made with ENIG coating for better contact with backplane connectors and to minimise risk of gold coated backplane contamination with Sn/Pb. All backplane signals are marked on board, so it's easier to find the right signal to be monitored with LA.
 
 ## What's the status of this project?
-At the moment it's only an idea, but as this design is really simple, it can be made pretty fast and most likely soon it will be ordered and tested.
+PCB is designed and will be sent to production soon, together with other boards.
