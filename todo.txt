@@ -1,8 +1,7 @@
-ENIG coating! (~20Eur for 10pcs)
-
 Make documentation
   Add 40pin connector outlines
   Simple schematics
   
-Order 10pcs, leave 4pcs and sell others
+add layer table in PCB file
 
+Test when received
