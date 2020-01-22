@@ -8,4 +8,4 @@ This is very simple and small board that connects into PDP-11 compatible soviet 
 Board can (and most likely will) be made with ENIG coating for better contact with backplane connectors and to minimise risk of gold coated backplane contamination with Sn/Pb. All backplane signals are marked on board, so it's easier to find the right signal to be monitored with LA. IAK and DMG jumper can be connected into connector that's soldered on board edge or if there's no need for that connector, jumpers can be soldered as 0805 components.
 
 ## What's the status of this project?
-PCB is sent to be manufactured, will be tested in about month.
+PCB is received and assembled, should be tested.
