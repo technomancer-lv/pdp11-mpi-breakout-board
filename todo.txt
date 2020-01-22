@@ -5,3 +5,7 @@ Make documentation
 add layer table in PCB file
 
 Test when received
+
+Issues:
+	Wrong side tapered, should be mentioned on next order (if there will be any)
+	
