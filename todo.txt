@@ -9,4 +9,5 @@ Test when received
 Issues:
 	Wrong side tapered, should be mentioned on next order (if there will be any)
 	One cutout missing at the edge of board
+	add simple place to hook ground wire to
 	
