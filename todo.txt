@@ -11,4 +11,5 @@ Issues:
 	One cutout missing at the edge of board
 	add simple place to hook ground wire to
 	Qbus connector A-B marking
+	Jumpers for I/O swapping
 	
